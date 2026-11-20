@@ -71,7 +71,7 @@ CPT revisions:
 6. Since MS broke CFileDialog::SetTemplates(), changed the import netlist and export netlist options dialogs.
 7. Moved strings into Resource string table.
 8. Allowed adaptible widths for items in MyToolBar, the left pane, and the F-key
-	help boxes.  (For use by people doing foreign language adaptations with Resource Hacker)
+	help boxes.  (For use by people doing foreign language adaptations with Resource Hacker or Resource Cracker (https://www.pelock.com/products/resource-cracker))
 9. Added a project folder selection button to DlgProjectOptions
 10.  Altered DlgLayers.  Now allows for control of the colors in the FootprintView (they match the main view colors, 
 	except for the layers that are footprint-specific --- those latter get extra rows in the DlgLayers table).  Allowed
